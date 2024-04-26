@@ -9,3 +9,9 @@ Zur ausführung wird Flutter und Visual Studio Code/Android Studio auf dem Compu
   
 Anschließend in Visual Studio Code oder Android Studio öffnen und kompilieren.
 
+Michael Heinz; Matr. 5504420
+
+michael.heinz@mnd.thm.de
+michael.heinz2003@gmail.com
+Discord: Phanterax
+
